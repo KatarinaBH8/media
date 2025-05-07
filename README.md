@@ -1,2 +1,2 @@
-# media
-Juncture media
+# final_project
+Final Project
